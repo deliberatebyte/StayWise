@@ -11,3 +11,4 @@ wheels/
 
 # Trained model artifacts
 models/*.joblib
+.vscode/

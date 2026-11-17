@@ -1,0 +1,11 @@
+Evaluation Metric,Logistic Regression,Random Forest,XGBoost
+Training Accuracy,80.11%,99.69%,85.25%
+Testing Accuracy,79.73%,84.39%,84.18%
+Training Precision,79.11%,99.69%,84.85%
+Testing Precision,78.68%,83.88%,83.74%
+Training Recall,80.11%,99.69%,85.25%
+Testing Recall,79.73%,84.39%,84.18%
+Training F1-score,79.18%,99.69%,84.92%
+Testing F1-score,78.77%,83.90%,83.85%
+Training ROC-AUC,85.92%,99.99%,92.12%
+Testing ROC-AUC,85.54%,90.29%,90.88%

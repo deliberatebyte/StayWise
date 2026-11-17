@@ -1,0 +1,6 @@
+Class,Precision,Recall,F1-score,Support
+Not Canceled,0.83,0.91,0.87,12675
+Canceled,0.67,0.51,0.58,4805
+Accuracy,,,0.8,17480
+Macro Avg,0.75,0.71,0.72,17480
+Weighted Avg,0.79,0.8,0.79,17480
